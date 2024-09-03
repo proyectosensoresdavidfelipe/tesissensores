@@ -1,0 +1,22 @@
+http://localhost/desarrollosensores/index.php?sensor1=1.1&sensor2=2.1&sensor3=3.1&sensor4=4.1&sensor5=5.1&fechalec="2024-03-01 08:09:50"
+
+
+claves
+
+enviopost.html      (formulario de envio)
+enviopost.php       (proceso de recuperacion y envio post)
+grabarpost.php      (grabar info en la bd)
+
+generar_grafico.php    pruebas de graficos (dashboard)
+
+
+la base de datos esta en MySQL bajo el puerto 3306
+la base de datos se llama sensores
+backup de la base de datos localhost.sql
+
+
+y el usuario que se utiliza para el acceso es proyecto
+
+con el servidor apache en el puerto 80 se maneja el frontend de la aplicación desarrollosensores
+
+
